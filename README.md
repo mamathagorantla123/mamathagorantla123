@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @mamathagorantla123
-- 👀 I’m interested in Data Science, Machine Learning, Deep Learning, and Artificial Intelligence, as well as organizing and managing events.
-- 🌱 I’m currently learning advanced topics in Data Science, including Deep Learning and Reinforcement Learning, while pursuing my Master's at the University of Missouri - Kansas City.
-- 💞️ I’m looking to collaborate on Data Science projects, including data analysis, visualization, and deep learning applications, as well as frontend development with ReactJS.
-- 📫 How to reach me mgxh5@umsystem.edu
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I enjoy organizing events that bring people together and foster creativity and collaboration!
+# 👋 Hi there, I'm Mamatha Gorantla!
+
+🎓 **Graduate Student in Computer Science (Data Science)**  
+University of Missouri - Kansas City | Former Data Analysis Intern at Eliptico IT Solutions  
+
+🌟 **About Me**  
+I'm a tech enthusiast passionate about **data science** and **cybersecurity**. My experience spans from analyzing datasets to crafting actionable insights, and I'm now diving into **defensive security mechanisms** and **ethical hacking**.  
+
+🔍 **Interests**  
+- Defensive Security & Threat Intelligence  
+- Penetration Testing & Vulnerability Assessment  
+- Machine Learning Applications in Cybersecurity  
+
+💻 **Technical Skills**  
+- **Languages/Technologies:** Python, C, Java, SQL, JavaScript, HTML5, CSS3  
+- **Libraries/Frameworks:** ReactJS, TensorFlow, Pandas, PyTorch, OpenCV  
+- **Tools:** Power BI, Tableau, MS Excel  
+
+📂 **Projects**  
+- [**Road Accident Detection Using Deep Learning**](#): Achieved 96% accuracy using CNN for real-time accident detection.  
+- [**Mini Python Compiler**](#): Built a custom compiler using C and Python, focusing on 'if-else' and 'while' statements.  
+
+🌐 **Connect with Me**  
+- [LinkedIn](https://linkedin.com/in/MamathaGorantla)  
+- [Email Me](mailto:mgorantla02@gmail.com)  
+
 
 
 
